@@ -117,3 +117,5 @@ if ! shopt -oq posix; then
 fi
 
 export PS1='>'
+alias update='sudo apt update'
+alias upgrade='sudo apt upgrade'
