@@ -119,3 +119,4 @@ fi
 export PS1='>'
 alias update='sudo apt update'
 alias upgrade='sudo apt upgrade'
+alias install='sudo apt install'
