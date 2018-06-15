@@ -13,3 +13,4 @@
  '(custom-variable-tag ((t (:foreground "green" :weight bold))))
  '(minibuffer-prompt ((t (:foreground "green"))))
  '(tool-bar ((t (:foreground "green" :box (:line-width 1 :style released-button))))))
+(global-linum-mode t)
